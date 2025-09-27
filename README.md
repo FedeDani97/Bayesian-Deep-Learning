@@ -1,5 +1,8 @@
 # Bayesian-Deep-Learning
 Courseworks
+Grades: 
+- Coursework 1: 90/100
+- Coursework 2: 100/100
 
 
 ## Repository Structure
