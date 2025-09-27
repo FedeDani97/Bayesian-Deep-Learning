@@ -1,9 +1,7 @@
 # Bayesian-Deep-Learning
 Courseworks (UCL)
 
-Grades: 
-- Coursework 1: 90/100
-- Coursework 2: 100/100
+Grades: Coursework 1: 90/100; Coursework 2: 100/100
 
 
 ### Repository Structure
