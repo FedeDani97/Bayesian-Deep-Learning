@@ -6,7 +6,7 @@ Grades:
 - Coursework 2: 100/100
 
 
-## Repository Structure
+### Repository Structure
 
 ```markdown
 .
