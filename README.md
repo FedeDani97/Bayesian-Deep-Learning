@@ -1,5 +1,6 @@
 # Bayesian-Deep-Learning
-Courseworks
+Courseworks (UCL)
+
 Grades: 
 - Coursework 1: 90/100
 - Coursework 2: 100/100
